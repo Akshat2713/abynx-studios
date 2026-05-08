@@ -1,0 +1,9 @@
+.track-card{
+    transition: all 0.3s ease;
+}
+
+.track-card:hover{
+    background-color: #2a1d1a; /* hover color */
+    border-color: #d88b75;     /* optional border color */
+    transform: translateY(-5px); /* optional lift effect */
+}
